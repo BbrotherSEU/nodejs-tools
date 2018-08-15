@@ -15,3 +15,10 @@ node的应用场景
 node的包
 1. npm安装
 2. package.json
+
+回调以及回调地狱问题
+1. promise callback
+2. async waterfall
+3. await
+    ES6语法中,await使异步操作更加方便,具体尝试可以参照just_await.js
+4. thunkify
