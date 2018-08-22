@@ -22,3 +22,7 @@ node的包
 3. await
     ES6语法中,await使异步操作更加方便,具体尝试可以参照just_await.js
 4. thunkify
+
+ORM框架
+1. orm连接并读取数据
+2. 各类操作和模型问题
